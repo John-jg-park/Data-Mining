@@ -1,0 +1,20 @@
+Steps to Execute Code:
+1.#read 2 CSV files
+2.#sorting by datatime
+3.#filterig to satisfy daily 80% data intergrity of total daily data 
+4.#change datetime data type to string and change dataframe to list
+5.#find datetime on AUTO MODE ACTIVE PLGM OFF and change dataframe to list
+6.#initialized variables
+7.#overnight (midnight to 6 am)
+  #daytime (6 am to midnight)
+  #whole day (12 am to 12 am).
+8.#store the results to lists 
+9.#combine with the results in lists to make them dataframe
+10.#export to csv file
+
+
+
+NOTE: [add any necessary notes]
+Link to resource(s) [if/as needed]
+Further step-by-step instructions if/as needed
+
